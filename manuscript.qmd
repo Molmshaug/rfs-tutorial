@@ -1,0 +1,27 @@
+---
+title: "Untitled"
+format: html
+author: Eirik
+date: "`r Sys.Date()`"
+bibliography: resources/bibliography.bib
+csl: resources/my-csl.csl
+---
+
+## Quarto
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| label: fig-figure1
+#| fig-cap: "This is figure 1"
+
+
+library(tidyverse)
+
+
+starwars %>% 
+  ggplot(aes(height, name)) + geom_point() + theme_minimal()
+
+```
+

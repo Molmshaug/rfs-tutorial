@@ -1,20 +1,39 @@
-#README
-
-This is my first change.
-
-# Title
-
-## Sub heading
-
-### Sub sub heading
-
-*italic text*
-
-**bold text**
-
-VO~2max~
+# README: Title of the project
 
 
-Fixed a merge conflict, it is soon time for lunch.
 
-Test endring
+## Authors
+
+
+### Affiliations
+
+## Aknowledgements
+
+## Abstract
+
+
+## Repository orginazation
+
+`data/`
+`derived-data/`
+`R/`
+`figures/`
+`docs/`
+`archive/`
+
+### Files
+
+`manuscript.qmd`
+
+#### R
+- script1.R
+- script2.r
+
+#### data
+- dataset1.xlsx
+  * variable1: Description of variable 1
+
+
+## Version history
+
+
