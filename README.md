@@ -15,4 +15,4 @@ This is my first change.
 VO~2max~
 
 
-This is my second change. Adding some other information.
+Fixed a merge conflict, it is soon time for lunch.
