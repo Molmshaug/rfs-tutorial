@@ -18,4 +18,4 @@ VO~2max~
 Fixed a merge conflict, it is soon time for lunch.
 
 
-This is mye change on the devel branch. 
+This is my change on the devel branch. 
